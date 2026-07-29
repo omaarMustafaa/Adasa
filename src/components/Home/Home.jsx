@@ -42,6 +42,7 @@ export default function Home() {
                     to="/blog"
                     className="btn-custom-primary d-inline-flex align-items-center justify-content-center gap-2 group text-decoration-none"
                   >
+                    
                     <span>استكشف المقالات</span>
                     <i className="fa-solid fa-arrow-left transition-transform" />
                   </Link>
