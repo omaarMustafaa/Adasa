@@ -39,14 +39,14 @@ export default function Home() {
                 </p>
                 <div className="d-flex flex-column flex-sm-row justify-content-center gap-3 mb-5">
                   <Link
-                    href="/blog"
+                    to="/blog"
                     className="btn-custom-primary d-inline-flex align-items-center justify-content-center gap-2 group text-decoration-none"
                   >
                     <span>استكشف المقالات</span>
                     <i className="fa-solid fa-arrow-left transition-transform" />
                   </Link>
                   <Link
-                    href="/about"
+                    to="/about"
                     className="btn-custom-secondary d-inline-flex align-items-center justify-content-center gap-2 text-decoration-none"
                   >
                     <i className="fa-solid fa-circle-info" />
