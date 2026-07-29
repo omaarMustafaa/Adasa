@@ -1,0 +1,11 @@
+/* :root {
+} */
+
+@font-face {
+  font-family: "Tajawal";
+  src: url(./assets/fonts/Tajawal-Regular.ttf);
+}
+
+body {
+  font-family: "Tajawal";
+}
